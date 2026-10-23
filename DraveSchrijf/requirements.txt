@@ -1,0 +1,7 @@
+PyQt6>=6.6
+numpy==2.5.4
+sounddevice
+faster-whisper==1.2.1
+ctranslate2==4.8.3
+neuvoice==1.0.0
+onnxruntime==1.31.0
